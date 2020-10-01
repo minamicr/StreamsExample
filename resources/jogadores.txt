@@ -1,0 +1,42 @@
+hernane,atacante,29,sport,3
+lucas pratto,atacante,27,atletico-mg,13
+nene,atacante,33,vasco,8
+ricardo oliveira,atacante,34,santos,20
+bruno,lateral-direito,23,sao paulo,1
+egidio,lateral-esquerdo,27,palmeiras,3
+lugano,zagueiro,31,internacional,3
+paolo guerreiro,atacante,34,flamengo,8
+cicero,meio-campo,28,fluminense,4
+elias,volante,27,corinthias,7
+arrascaeta,meio-campo,30,cruzeiro,3
+luan,atacante,23,atletico-mg,8
+mayke,lateral-direito,22,cruzeiro,2
+dede,zagueiro,28,cruzeiro,0
+carlinhos,lateral-esquerdo,31,sao paulo,2
+edu dracena,zagueiro,33,palmeiras,4
+willians,volante,32,cruzeiro,2
+marcos rocha,lateral-direito,26,atletico-mg,6
+victor,goleiro,29,atletico-mg,0
+rogerio ceni,goleiro,41,sao paulo,7
+marcelo grohe,goleiro,29,gremio,0
+negueba,atacante,27,coritiba,4
+bressan,zagueiro,22,gremio,2
+rever,zagueiro,29,internacional,5
+michel bastos,meio-campo,33,sao paulo,7
+vitinho,atacante,22,internacional,11
+willliam,atacante,28,cruzeiro,11
+apodi,lateral-direito,27,chapecoense,5
+arouca,volante,29,palmeiras,1
+cristaldo,atacante,31,palmeiras,5
+vagner love,atacante,37,corinthias,14
+lucas lima,meio-campo,25,santos,7
+rodrigo caio,volante,22,sao paulo,2
+jefferson,goleiro,34,botafogo,0
+marcos guilherme,meio-campo,22,atletico-pr,4
+henrique almeida,atacante,27,coritiba,12
+thiago mendes,volante,28,sao paulo,4
+centurion,atacante,27,sao paulo,2
+fernando prass,goleiro,35,palmeiras,0
+ze roberto,meio-campo,38,palmeiras,2
+malcom,atacante,18,corinthias,7
+renan,goleiro,33,goias,0
